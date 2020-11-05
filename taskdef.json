@@ -1,5 +1,5 @@
 {
-    "executionRoleArn": "arn:aws:iam::450507733673:role/ecsTaskRole,
+    "executionRoleArn": "arn:aws:iam::450507733673:role/ecsTaskRole",
     "TaskRoleArn": "arn:aws:iam::450507733673:role/ecsTaskRole",
     "containerDefinitions": [
         {
