@@ -107,6 +107,5 @@
     "inferenceAccelerators": [],
     "proxyConfiguration": null,
     "volumes": [],
-    "placementConstraints": [],
-    "tags": []
+    "placementConstraints": []
 }
